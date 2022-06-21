@@ -1,0 +1,19 @@
+Se é necessario que os elementos do set se tornem Array, é necessário utilizar o spread;
+Em coleções chaveadas, é possível utilizar o loop for...of
+
+
+.map( ) // retorna um novo array(não modifica o original) de acordo com os novos comandos passados na função callback do map
+
+.forEach() // em essencia, é parecido com o .map(), porém é necessário uma variável para caso haja a necessidade de
+retornar um array.
+
+
+.reduce() // 
+
+
+
+--
+
+Ecmascript Error = erros que acontecem em tempo de execução, são compostos por: mensagem, nome, linha e call stack.
+DOMException = erros relacionados ao document object model
+

@@ -1,0 +1,2 @@
+Se é necessario que os elementos do set se tornem Array, é necessário utilizar o spread;
+Em coleções chaveadas, é possível utilizar o loop for...of
